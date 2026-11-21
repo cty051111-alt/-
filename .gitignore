@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+*.asar
+*.db
+*.ldb
+*.log
+smart-practice-backups/
+__pycache__/
