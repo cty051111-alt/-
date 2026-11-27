@@ -1,4 +1,4 @@
-# IELTS Practice Planner · 雅思智能组题助手
+# 雅思智能组题助手 · IELTS Practice Planner
 
 适配九分学长考雅机考平台。
 
